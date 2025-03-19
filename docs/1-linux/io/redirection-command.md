@@ -31,3 +31,5 @@ foo > stdout.log 2> stderr.log
 ```shell
 foo > stdout.log 2>&1
 ```
+
+
