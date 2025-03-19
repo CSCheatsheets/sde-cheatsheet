@@ -77,6 +77,10 @@
 
 - [slurm-command](./docs/2-tools/slurm/slurm-command.md)
 
+### 3.9. tmux
+
+- [tmux-command](./docs/2-tools/tmux/tmux-command.md)
+
 ## 4. languages
 
 ### 4.1. markup
