@@ -13,6 +13,7 @@
 
 - [basename-command](./docs/1-linux/file-system/basename-command.md)
 - [realpath-command](./docs/1-linux/file-system/realpath-command.md)
+- [tar-command](./docs/1-linux/file-system/tar-command.md)
 
 ### 2.2. installation
 
