@@ -1,7 +1,5 @@
 # docs
 
-
-
 ## 1. linux
 
 ### 1.1. file-system
