@@ -88,7 +88,11 @@
 
 - [pcluster-command](./docs/3-tools/pcluster/pcluster-command.md)
 
-### 3.8. vim
+### 3.8. scp
+
+- [scp-command](./docs/3-tools/scp/scp-command.md)
+
+### 3.9. vim
 
 - [file-name-shortcut](./docs/3-tools/vim/file-name-shortcut.md)
 - [move-cursor-shortcut](./docs/3-tools/vim/move-cursor-shortcut.md)
