@@ -14,20 +14,19 @@
 - [basename-command](./docs/1-linux/file-system/basename-command.md)
 - [realpath-command](./docs/1-linux/file-system/realpath-command.md)
 
-### 2.2. io
+### 2.2. installation
+
+- [deb-command](./docs/1-linux/installation/deb-command.md)
+
+### 2.3. io
 
 - [redirection-command](./docs/1-linux/io/redirection-command.md)
 
-### 2.3. os
+### 2.4. os
 
-- [installation-command](./docs/1-linux/os/installation-command.md)
 - [os-command](./docs/1-linux/os/os-command.md)
 - [pci-command](./docs/1-linux/os/pci-command.md)
 - [process-command](./docs/1-linux/os/process-command.md)
-
-### 2.4. package
-
-- [deb-command](./docs/1-linux/package/deb-command.md)
 
 ## 3. languages
 
