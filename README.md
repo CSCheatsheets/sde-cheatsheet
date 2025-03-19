@@ -23,85 +23,86 @@
 
 - [redirection-command](./docs/1-linux/io/redirection-command.md)
 
-### 2.4. os
+### 2.4. network
+
+- [scp-command](./docs/1-linux/network/scp-command.md)
+- [ssh-command](./docs/1-linux/network/ssh-command.md)
+
+### 2.5. os
 
 - [os-command](./docs/1-linux/os/os-command.md)
 - [pci-command](./docs/1-linux/os/pci-command.md)
 - [process-command](./docs/1-linux/os/process-command.md)
 
-## 3. languages
+## 3. tools
 
-### 3.1. markup
+### 3.1. ada
 
-#### 3.1.1. markdown
+- [ada-command](./docs/2-tools/ada/ada-command.md)
 
-- [language-identifier-syntax](./docs/2-languages/markup/markdown/language-identifier-syntax.md)
-- [markdownlint-concept](./docs/2-languages/markup/markdown/markdownlint-concept.md)
-- [markdownlint-syntax](./docs/2-languages/markup/markdown/markdownlint-syntax.md)
-- [table-syntax](./docs/2-languages/markup/markdown/table-syntax.md)
+### 3.2. aws
 
-### 3.2. programming
+- [aws-command](./docs/2-tools/aws/aws-command.md)
 
-#### 3.2.1. cuda
+### 3.3. conda
 
-- [nccl-concept](./docs/2-languages/programming/cuda/nccl-concept.md)
+- [conda-command](./docs/2-tools/conda/conda-command.md)
 
-#### 3.2.2. python
+### 3.4. git
 
-- [typing-syntax](./docs/2-languages/programming/python/typing-syntax.md)
-- [vars-syntax](./docs/2-languages/programming/python/vars-syntax.md)
+- [git-add-command](./docs/2-tools/git/git-add-command.md)
+- [git-checkout-command](./docs/2-tools/git/git-checkout-command.md)
+- [git-commit-command](./docs/2-tools/git/git-commit-command.md)
+- [git-config-command](./docs/2-tools/git/git-config-command.md)
+- [git-diff-command](./docs/2-tools/git/git-diff-command.md)
+- [git-merge-command](./docs/2-tools/git/git-merge-command.md)
+- [git-push-command-bug](./docs/2-tools/git/git-push-command-bug.md)
+- [git-rebase-command](./docs/2-tools/git/git-rebase-command.md)
+- [git-remote-command](./docs/2-tools/git/git-remote-command.md)
 
-### 3.3. shell
+### 3.5. homebrew
 
-- [shell-condition-syntax](./docs/2-languages/shell/shell-condition-syntax.md)
-- [shell-config](./docs/2-languages/shell/shell-config.md)
-- [shell-loop-syntax](./docs/2-languages/shell/shell-loop-syntax.md)
+- [homebrew-command](./docs/2-tools/homebrew/homebrew-command.md)
 
-## 4. tools
+### 3.6. jekyll
 
-### 4.1. ada
+- [jekyll-command](./docs/2-tools/jekyll/jekyll-command.md)
 
-- [ada-command](./docs/3-tools/ada/ada-command.md)
+### 3.7. pcluster
 
-### 4.2. aws
+- [pcluster-command](./docs/2-tools/pcluster/pcluster-command.md)
 
-- [aws-command](./docs/3-tools/aws/aws-command.md)
+### 3.8. slurm
 
-### 4.3. conda
+- [slurm-command](./docs/2-tools/slurm/slurm-command.md)
 
-- [conda-command](./docs/3-tools/conda/conda-command.md)
+## 4. languages
 
-### 4.4. git
+### 4.1. markup
 
-- [git-add-command](./docs/3-tools/git/git-add-command.md)
-- [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
-- [git-commit-command](./docs/3-tools/git/git-commit-command.md)
-- [git-config-command](./docs/3-tools/git/git-config-command.md)
-- [git-diff-command](./docs/3-tools/git/git-diff-command.md)
-- [git-merge-command](./docs/3-tools/git/git-merge-command.md)
-- [git-push-command-bug](./docs/3-tools/git/git-push-command-bug.md)
-- [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
-- [git-remote-command](./docs/3-tools/git/git-remote-command.md)
+#### 4.1.1. markdown
 
-### 4.5. homebrew
+- [language-identifier-syntax](./docs/3-languages/markup/markdown/language-identifier-syntax.md)
+- [markdownlint-concept](./docs/3-languages/markup/markdown/markdownlint-concept.md)
+- [markdownlint-syntax](./docs/3-languages/markup/markdown/markdownlint-syntax.md)
+- [table-syntax](./docs/3-languages/markup/markdown/table-syntax.md)
 
-- [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
+### 4.2. programming
 
-### 4.6. jekyll
+#### 4.2.1. cuda
 
-- [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
+- [nccl-concept](./docs/3-languages/programming/cuda/nccl-concept.md)
 
-### 4.7. pcluster
+#### 4.2.2. python
 
-- [pcluster-command](./docs/3-tools/pcluster/pcluster-command.md)
+- [typing-syntax](./docs/3-languages/programming/python/typing-syntax.md)
+- [vars-syntax](./docs/3-languages/programming/python/vars-syntax.md)
 
-### 4.8. scp
+### 4.3. shell
 
-- [scp-command](./docs/3-tools/scp/scp-command.md)
-
-### 4.9. slurm
-
-- [slurm-command](./docs/3-tools/slurm/slurm-command.md)
+- [shell-condition-syntax](./docs/3-languages/shell/shell-condition-syntax.md)
+- [shell-config](./docs/3-languages/shell/shell-config.md)
+- [shell-loop-syntax](./docs/3-languages/shell/shell-loop-syntax.md)
 
 ## 5. services
 
