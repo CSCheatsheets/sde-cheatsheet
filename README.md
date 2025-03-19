@@ -1,70 +1,77 @@
 # docs
 
-## 1. linux
+## 1. ides
 
-### 1.1. file-system
+### 1.1. vim
+
+- [file-name-shortcut](./docs/0-ides/vim/file-name-shortcut.md)
+- [move-cursor-shortcut](./docs/0-ides/vim/move-cursor-shortcut.md)
+
+## 2. linux
+
+### 2.1. file-system
 
 - [basename-command](./docs/1-linux/file-system/basename-command.md)
 - [realpath-command](./docs/1-linux/file-system/realpath-command.md)
 
-### 1.2. io
+### 2.2. io
 
 - [redirection-command](./docs/1-linux/io/redirection-command.md)
 
-### 1.3. os
+### 2.3. os
 
 - [installation-command](./docs/1-linux/os/installation-command.md)
 - [os-command](./docs/1-linux/os/os-command.md)
 - [pci-command](./docs/1-linux/os/pci-command.md)
 - [process-command](./docs/1-linux/os/process-command.md)
 
-### 1.4. package
+### 2.4. package
 
 - [deb-command](./docs/1-linux/package/deb-command.md)
 
-## 2. languages
+## 3. languages
 
-### 2.1. markup
+### 3.1. markup
 
-#### 2.1.1. markdown
+#### 3.1.1. markdown
 
 - [language-identifier-syntax](./docs/2-languages/markup/markdown/language-identifier-syntax.md)
 - [markdownlint-concept](./docs/2-languages/markup/markdown/markdownlint-concept.md)
 - [markdownlint-syntax](./docs/2-languages/markup/markdown/markdownlint-syntax.md)
 - [table-syntax](./docs/2-languages/markup/markdown/table-syntax.md)
 
-### 2.2. programming
+### 3.2. programming
 
-#### 2.2.1. cuda
+#### 3.2.1. cuda
 
 - [nccl-concept](./docs/2-languages/programming/cuda/nccl-concept.md)
 
-#### 2.2.2. python
+#### 3.2.2. python
 
 - [typing-syntax](./docs/2-languages/programming/python/typing-syntax.md)
 - [vars-syntax](./docs/2-languages/programming/python/vars-syntax.md)
 
-### 2.3. shell
+### 3.3. shell
 
 - [shell-condition-syntax](./docs/2-languages/shell/shell-condition-syntax.md)
 - [shell-config](./docs/2-languages/shell/shell-config.md)
 - [shell-loop-syntax](./docs/2-languages/shell/shell-loop-syntax.md)
 
-## 3. tools
+## 4. tools
 
-### 3.1. ada
+### 4.1. ada
 
 - [ada-command](./docs/3-tools/ada/ada-command.md)
 
-### 3.2. aws
+### 4.2. aws
 
 - [aws-command](./docs/3-tools/aws/aws-command.md)
 
-### 3.3. conda
+### 4.3. conda
 
 - [conda-command](./docs/3-tools/conda/conda-command.md)
 
-### 3.4. git
+### 4.4. git
 
 - [git-add-command](./docs/3-tools/git/git-add-command.md)
 - [git-checkout-command](./docs/3-tools/git/git-checkout-command.md)
@@ -76,39 +83,34 @@
 - [git-rebase-command](./docs/3-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/3-tools/git/git-remote-command.md)
 
-### 3.5. homebrew
+### 4.5. homebrew
 
 - [homebrew-command](./docs/3-tools/homebrew/homebrew-command.md)
 
-### 3.6. jekyll
+### 4.6. jekyll
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 
-### 3.7. pcluster
+### 4.7. pcluster
 
 - [pcluster-command](./docs/3-tools/pcluster/pcluster-command.md)
 
-### 3.8. scp
+### 4.8. scp
 
 - [scp-command](./docs/3-tools/scp/scp-command.md)
 
-### 3.9. vim
+## 5. services
 
-- [file-name-shortcut](./docs/3-tools/vim/file-name-shortcut.md)
-- [move-cursor-shortcut](./docs/3-tools/vim/move-cursor-shortcut.md)
+## 6. frameworks
 
-## 4. services
+## 7. libraries
 
-## 5. frameworks
+## 8. systems
 
-## 6. libraries
-
-## 7. systems
-
-### 7.1. distributed-system
+### 8.1. distributed-system
 
 - [parallelism-concept](./docs/7-systems/distributed-system/parallelism-concept.md)
 
-### 7.2. hpc-system
+### 8.2. hpc-system
 
 - [scalability-concept](./docs/7-systems/hpc-system/scalability-concept.md)
