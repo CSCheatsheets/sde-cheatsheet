@@ -22,6 +22,7 @@
 ### 2.3. io
 
 - [redirection-command](./docs/1-linux/io/redirection-command.md)
+- [tee-command](./docs/1-linux/io/tee-command.md)
 
 ### 2.4. network
 
