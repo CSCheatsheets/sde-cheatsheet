@@ -99,6 +99,10 @@
 
 - [scp-command](./docs/3-tools/scp/scp-command.md)
 
+### 4.9. slurm
+
+- [slurm-command](./docs/3-tools/slurm/slurm-command.md)
+
 ## 5. services
 
 ## 6. frameworks
