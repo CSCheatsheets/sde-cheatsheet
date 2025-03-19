@@ -18,9 +18,9 @@
 - [pci-command](./docs/1-linux/os/pci-command.md)
 - [process-command](./docs/1-linux/os/process-command.md)
 
-### 1.4. packages
+### 1.4. package
 
-- [deb-command](./docs/1-linux/packages/deb-command.md)
+- [deb-command](./docs/1-linux/package/deb-command.md)
 
 ## 2. languages
 
@@ -84,7 +84,11 @@
 
 - [jekyll-command](./docs/3-tools/jekyll/jekyll-command.md)
 
-### 3.7. vim
+### 3.7. pcluster
+
+- [pcluster-command](./docs/3-tools/pcluster/pcluster-command.md)
+
+### 3.8. vim
 
 - [file-name-shortcut](./docs/3-tools/vim/file-name-shortcut.md)
 - [move-cursor-shortcut](./docs/3-tools/vim/move-cursor-shortcut.md)
