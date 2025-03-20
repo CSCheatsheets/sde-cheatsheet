@@ -101,6 +101,7 @@
 
 #### 4.2.2. python
 
+- [__future__-syntax](./docs/3-languages/programming/python/__future__-syntax.md)
 - [typing-syntax](./docs/3-languages/programming/python/typing-syntax.md)
 - [vars-syntax](./docs/3-languages/programming/python/vars-syntax.md)
 
@@ -125,3 +126,8 @@
 ### 8.2. hpc-system
 
 - [scalability-concept](./docs/7-systems/hpc-system/scalability-concept.md)
+
+## 9. design-patterns
+
+### 9.1. creational-patterns
+
