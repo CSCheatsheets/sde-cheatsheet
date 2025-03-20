@@ -60,6 +60,7 @@
 - [git-push-command-bug](./docs/2-tools/git/git-push-command-bug.md)
 - [git-rebase-command](./docs/2-tools/git/git-rebase-command.md)
 - [git-remote-command](./docs/2-tools/git/git-remote-command.md)
+- [git-submodule-command](./docs/2-tools/git/git-submodule-command.md)
 
 ### 3.5. homebrew
 
