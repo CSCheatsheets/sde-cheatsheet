@@ -4,8 +4,10 @@
 
 ### 1.1. vim
 
-- [file-name-shortcut](./docs/0-ides/vim/file-name-shortcut.md)
+- [check-command-history-shortcut](./docs/0-ides/vim/check-command-history-shortcut.md)
+- [check-file-name-shortcut](./docs/0-ides/vim/check-file-name-shortcut.md)
 - [move-cursor-shortcut](./docs/0-ides/vim/move-cursor-shortcut.md)
+- [visual-model-shortcut](./docs/0-ides/vim/visual-model-shortcut.md)
 
 ## 2. linux
 
