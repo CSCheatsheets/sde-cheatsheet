@@ -32,12 +32,24 @@ $
 
 ## Move to the Last Position
 
-```text
+```vim
 ctrl + o
 ```
 
 ## Move to the Next Position
 
-```text
+```vim
 ctrl + i
+```
+
+## Move to the Last Occurrence of the Found Match
+
+```vim
+N
+```
+
+## Move to the Next Occurrence of the Found Match
+
+```vim
+n
 ```
