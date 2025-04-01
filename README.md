@@ -14,7 +14,9 @@
 ### 2.1. file-system
 
 - [basename-command](./docs/1-linux/file-system/basename-command.md)
+- [du-command](./docs/1-linux/file-system/du-command.md)
 - [find-command](./docs/1-linux/file-system/find-command.md)
+- [mkdir-command](./docs/1-linux/file-system/mkdir-command.md)
 - [realpath-command](./docs/1-linux/file-system/realpath-command.md)
 - [tar-command](./docs/1-linux/file-system/tar-command.md)
 

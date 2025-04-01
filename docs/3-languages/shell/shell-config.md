@@ -40,4 +40,9 @@ alias c="clear"
 
 # Editor Shortcut
 alias e=emacs
+
+# Tmux Shortcut
+alias tl="tmux ls"
+alias tn="tmux new -s"
+alias ta="tmux attach -t"
 ```
