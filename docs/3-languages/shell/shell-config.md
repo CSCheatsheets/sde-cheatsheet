@@ -45,4 +45,5 @@ alias e=emacs
 alias tl="tmux ls"
 alias tn="tmux new -s"
 alias ta="tmux attach -t"
+alias tk="tmux kill-session -t"
 ```
